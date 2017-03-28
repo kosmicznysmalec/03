@@ -1,9 +1,9 @@
 #Test markdown
-[Link](http://piestrzynski.pl)
-![alt tekst](https://piestrzynski.pl/wp-content/uploads/2017/03/todotask.png)
+[Link](www.google.com)
+![alt tekst](https://www.google.com)
 * Nie zwracac uwagi
 * to tylko lista
 * nic nie warta
-**To testowe repozytorium smieciowe**
+**Test 123456789**
 _kursywa_
 > Chwytaj dzień
